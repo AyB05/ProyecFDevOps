@@ -1,4 +1,4 @@
 # About 
 
-Moisés come pene jejox
+Info about the app
 

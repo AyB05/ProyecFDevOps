@@ -1,6 +1,6 @@
 
-const num = require('./index');
+const lett = require('./aplication');
 
-test('The number must be 1', () => {
-    expect(num()).toBe("1");
+test('The text must be A', () => {
+    expect(lett()).toBe("A");
 })
